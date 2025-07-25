@@ -3067,30 +3067,7 @@ Based on Gaia Sources: 5920166359412541824, 5920166359419005184
 5920166359412541824    2.0904  0.0191  9.212119     5.547   -15.261
 5920166359419005184    2.1906  0.0264 10.686793     5.929   -15.420
 5920172303647275136    1.8978  0.0149 12.214126     3.643   -23.333
-
-===== WDS ID: 20584+4326 =====
-
-Observations: 7 | Last: 2015 | First: 1915 (0.07 per year)
-Not available
-Pri P.M. R.A. 0 | Pri P.M. Dec. -20 | Sec P.M. R.A. nan | Sec P.M. Dec. nan
-
-Pri mag: 9.94 | Sec mag: 11.1 | Δ Mag: 1.16
-P.A. first: 111 | P.A. last: 101 | Δ P.A.: 10
-Sep first: 8.6 | Sep last: 8.6 | Δ Sep: 0.0
-
--- GAIA DR3/I/355 (region around 205828.61+432552.5 within 2 arcmin) --
-
-Min radial separation: 66.439324 pc | 13,704,094 AU | 216.6961 ly
-Based on Gaia Sources: 2162059122035731712, 2162070907426000256
-
-
-       Source          Plx     e_Plx     Gmag      pmRA      pmDE  
-                       mas      mas      mag     mas / yr  mas / yr
-------------------- --------- ------- --------- --------- ---------
-2162059122035731712    1.6928  0.0092 12.479197    11.592     0.546
-2162070907426000256    1.9310  0.0120 12.880972   -19.759   -19.942
-2162070941785745152    0.6754  0.0165  9.788013     0.756    -2.910
-2162070941785746816    3.4258  0.0118  9.763659     0.071   -19.341
+Error for 205828.61+432552.5: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 ===== WDS ID: 16045-1905 =====
 
